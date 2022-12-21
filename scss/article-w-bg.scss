@@ -1,0 +1,67 @@
+
+    #balta {
+        width: 1400px;
+        height: 592px;
+        text-align: center;
+        margin: 30px;
+    
+    .white-bg {
+        background: #FFFFFF;
+    
+
+    h3 {
+        color: #212121;
+        font-size: 36px;
+        width: 444px;
+        height: 44px;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    img {
+        width: 64px;
+        height: 2px;
+    }
+
+    p {
+        height: 18px;
+        font-size: 14px;
+        color: #86878B;
+        margin: 0;
+        text-align: center;
+        line-height: 40px;
+    }
+
+
+    
+
+    #list {
+        display: flex;
+        align-items: center;
+        width: 1400px;
+
+        ul {
+            list-style-type: none;
+            color: #86878B; 
+            width: 286px;
+            height: 194px; 
+            padding: 10px;
+        }
+
+        .topic {
+            font-size: 20px;
+            color: #333333;
+            padding: 30px;
+        }
+
+        .icon {
+            text-align: center;
+            color: #E27866;
+            width: 50px;
+            height: 50px;
+            border-radius: 40px 40px 40px 40px;
+            border: 1px solid #E27866;
+        }
+    }
+
+}}

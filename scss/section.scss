@@ -1,0 +1,45 @@
+/* section style */
+section {
+    height: 105px;
+    width: 1400px;
+    padding: 12px 80px;
+    font: normal normal normal 14px/20px Montserrat;
+   
+
+
+div.media{
+    display: flex;
+    justify-content: space-between;
+}
+
+h4 {
+    color: #333333;
+    text-align: left;
+    font-size: 20px;
+    height: 24px;
+}
+
+ p {
+    color: #86878B;
+    width: 394px;
+    height: 38px;
+    font-size: 14px;
+    text-align: left; 
+    margin: 0px;  
+}
+
+ div.social {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+   
+}
+
+ div a.wifi {
+    color: #E27866;
+    font-size: 2.3em;
+    opacity: 68%;
+    transform: rotate(45deg);
+    transform-origin: bottom;
+}
+}

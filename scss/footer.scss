@@ -1,0 +1,33 @@
+footer {
+    background: #1C1C1C;
+    padding: 0 80px;
+    display: flex;
+    justify-content: space-between;
+    width: 1400px;
+    height: 124px;
+
+
+ p {
+    color: #FFFFFF;
+    opacity: 0.5;
+
+}
+
+ .social {
+    display: flex;
+    align-items: center;
+    gap: 95px;
+}
+
+ div.social a img{
+    height: 24px;
+    width: 20px;
+}
+
+  a.wifi {
+    color: #E27866;
+    font-size: 1.5em;
+    opacity: 68%;
+    transform: rotate(45deg);
+    transform-origin: bottom;
+}}
